@@ -61,3 +61,4 @@ DEBUG | DEBUG de código
 # Checkpoint
 
 [x] Arthur
+[x] Leandro
